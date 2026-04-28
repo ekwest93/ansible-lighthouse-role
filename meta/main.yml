@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: "ekwest93"
+  description: "Deploy LightHouse web dashboard for ClickHouse monitoring"
+  license: "MIT"
+  min_ansible_version: "2.10"
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+    - name: Debian
+      versions:
+        - 10
+        - 11
+  galaxy_tags:
+    - lighthouse
+    - clickhouse
+    - monitoring
+    - dashboard
+    - nginx
+dependencies: []
