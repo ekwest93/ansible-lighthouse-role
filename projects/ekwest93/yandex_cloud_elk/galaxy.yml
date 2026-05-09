@@ -1,0 +1,14 @@
+namespace: ekwest93
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name <your.email@example.com>
+description: Collection for Yandex Cloud ELK
+license:
+  - MIT
+tags:
+  - yandex
+  - cloud
+  - elk
+repository: https://github.com/ekwest93/yandex_cloud_elk
